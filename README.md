@@ -1,5 +1,5 @@
 <h1> Safe Travels (BCHacks 4.0) </h1>
-<h3><i>"Where we do the thinking"</i> Darren Evan</h3>
+<h3><i>"Where we do the thinking"</i>  -Darren Evan</h3>
 
 <h2>About Our Website</h2>
 Picture having to travel but not being familiar with the place you are traveling to. This is where "Safe Travels" comes.<br>
@@ -10,6 +10,7 @@ the most.
 
 <h2>How We Calculate the Crime Rate</h2>
 
-<h2>Limitations</h2>
+<h2>Future Improvements</h2>
+- Areas analyzed could be broader (not just Vancouver)
 
 <h2>Video Demonstration</h2>
