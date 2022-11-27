@@ -50,5 +50,5 @@ Shopping District Tag<br>
 - Make the website available online (now it is local host and requires docker)<br>
 
 <h2>Video Demonstration</h2>
-Click below to watch a Demo of the Website:
+Click below to watch a Demo of the Website:<br>
 https://youtu.be/VPc8mdRd9q4
