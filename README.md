@@ -54,8 +54,7 @@ Shopping District Tag<br>
 
 <br>
 <h2>Programming Languages Used</h2>
-<img src="img/html.png"  width="200" height="40" />
-<img src="img/jsp.png"  width="30" height="40" />
+<img src="img/html.png"  width="180" height="40" /><img src="img/jsp.png"  width="30" height="50" />
 
 <br>
 <h2>Video Demonstration</h2>
