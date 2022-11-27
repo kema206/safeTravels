@@ -53,6 +53,13 @@ Shopping District Tag<br>
 - Make the website available online (now it is local host and requires docker)<br>
 
 <br>
+<h2>Programming Languages Used</h2>
+
+![alt text](img/html.png)
+
+![alt text](img/jsp.png)
+
+<br>
 <h2>Video Demonstration</h2>
 Click below to watch a Demo of the Website:<br>
 https://youtu.be/VPc8mdRd9q4
