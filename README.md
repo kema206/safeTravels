@@ -1,5 +1,5 @@
 <h1> Safe Travels (BCHacks 4.0) </h1>
-<h3><i>"Where we do the thinking"</i>  -Darren Evan</h3>
+<h3><i>"Where we do the thinking for you"</i>  -Darren Evan</h3>
 <br> 
 
 <h2>About Our Website</h2>
