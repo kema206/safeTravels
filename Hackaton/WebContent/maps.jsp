@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Simple Map</title>
+<title>Map</title>
 <script type="text/javascript" src="skytrain.js"></script>
 <script type="text/javascript" src="border.js"></script>
 <script type="text/javascript" src="medical.js"></script>
@@ -34,7 +34,7 @@
       <option value="Victoria-Fraserview">Victoria-Fraserview</option>
       <option value="Strathcona">Strathcona</option>
       <option value="South Cambie">South Cambie</option>
-      <option value="Oakridge">Oakridge/option>
+      <option value="Oakridge">Oakridge</option>
       <option value="West Point Grey">West Point Grey</option>
       <option value="Dunbar-Southlands">Dunbar-Southlands</option>
       <option value="Kensington-Cedar Cottage">Kensington-Cedar Cottage</option>
@@ -51,6 +51,7 @@
     </select>
     <input type="submit" value="Submit">
     </form>
+    </div>
 <%
 String nb = request.getParameter("nb");
 if(nb == null) {
@@ -224,7 +225,6 @@ if(nb.equals("All")) {
             }
           }
 
-
           for(var i = 0; i < stations.length;i++){
             addSkytrainMarker(stations[i]);
           }
@@ -325,13 +325,16 @@ if(nb.equals("All")) {
     </script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDhSzcSSQmx3DXacXsHWjcTV71NBT6Xy7M&callback=initMap&libraries=marker&v=beta">
     </script>
+    
     <br>
-    <img src="img/Skytrain.png" alt="Skytrain" style="width:150px;height:40px;"><br>
-    <img src="img/Clinic.png" alt="Clinic" style="width:150px;height:40px;">
-    <img src="img/Pharmacy.png" alt="Pharmacy" style="width:150px;height:40px;">
-    <img src="img/Hospital.png" alt="Hostipal" style="width:150px;height:40px;"><br>
-    <img src="img/Attraction.png" alt="Attraction" style="width:150px;height:40px;">
-    <img src="img/Shopping_District.png" alt="Shopping District" style="width:150px;height:40px;">
-
+    <div class = "center-right">
+      <img src="img/barometer.png" alt="bar" style="width:200px;height:80px;"><br>
+      <img src="img/Skytrain.png" alt="Skytrain" style="width:150px;height:40px;"><br>
+      <img src="img/Clinic.png" alt="Clinic" style="width:150px;height:40px;"><br>
+      <img src="img/Pharmacy.png" alt="Pharmacy" style="width:150px;height:40px;"><br>
+      <img src="img/Hospital.png" alt="Hostipal" style="width:150px;height:40px;"><br>
+      <img src="img/Attraction.png" alt="Attraction" style="width:150px;height:40px;"><br>
+      <img src="img/Shopping_District.png" alt="Shopping District" style="width:150px;height:40px;">
+    </div>
 </body>
 </html>
