@@ -27,7 +27,7 @@ This would give us the number of crimes that happen per 1000 people in each neig
 
 Skytrain Tag<br>
 
-![alt text](img/iconPH.png)<br>
+![alt text](img/iconPM.png)<br>
 
 Pharmacy Tag<br>
 
