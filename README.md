@@ -19,9 +19,9 @@ This would give us the number of crimes that happen per 1000 people in each neig
 <h2>Future Improvements</h2>
 - Include areas outside of Vancouver<br>
 - Have a more accurate and consistent border per "neighbourhood"<br>
-- Add more features such as bus stops, food places<br>
-- Add reviews and average prices for accomodations (hotels and AirBnB)<br>
-- Add travelers' preference on safety, public transport, affordability<br>
+- Add more statistics such as bus stops, food locations, etc. <br>
+- Add average prices for accomodations (hotels and AirBnB)<br>
+- Add an algorithm that will select the neighbourhood based on travelers' preference on safety, public transport, affordability<br>
 - Make the website available online (now it is local host and requires docker)<br>
 
 <h2>Video Demonstration</h2>
