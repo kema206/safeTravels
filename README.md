@@ -23,9 +23,29 @@ This would give us the number of crimes that happen per 1000 people in each neig
 
 <h2>Tags in Website</h2>
 
-![alt text](img/Attraction.png)<br>
+![alt text](img/iconST.png)<br>
+
+Skytrain Tag<br>
+
+![alt text](img/iconPH.png)<br>
+
+Pharmacy Tag<br>
+
+![alt text](img/iconHT.png)<br>
+
+Hospital Tag<br>
+
+![alt text](img/iconCN.png)<br>
+
+Clinic Tag<br>
+
+![alt text](img/iconAT.png)<br>
 
 Attraction Tag<br>
+
+![alt text](img/iconSD.png)<br>
+
+Shopping District Tag<br>
 
 <h2>Future Improvements</h2>
 - Include areas outside of Vancouver<br>
