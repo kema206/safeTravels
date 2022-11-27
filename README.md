@@ -8,7 +8,7 @@ Picture having to travel but not being familiar with the place you are traveling
 diferrent neigbourhoods in the area. One of the feature is highlighting neighbourhoods with different colours on their<br>
 corresponding crime rates. Additionally, there are also multiple tags pinpointing the exact location of medical establishments,<br>
 amenities, and skytrain stations. These tags could help travelers decide the location that best suits them. By using our website,<br>
-travellers would not have to stress out planning everything!
+travellers would not have to stress out planning everything!<br>
 
 <br>
 <h2>How We Calculate the Crime Rate</h2>
