@@ -14,7 +14,15 @@ travellers would not have to stress out planning everything!
 Our website calculates the crime rate per neighbourhood. The formula that we used is:<br>
 
 ![alt text](img/formula.png)<br>
+
 This would give us the number of crimes that happen per 1000 people in each neighbourhood.<br> 
+
+<h2>Crime Rate Legend</h2>
+Blue: Crime Rate is between 20 and 40.<br> 
+Green: Crime Rate is between 40 and 50.<br> 
+Yellow: Crime Rate is between 50 and 70.<br> 
+Orange: Crime Rate is between 70 and 100.<br> 
+Red: Crime Rate is greater than 100.
 
 <h2>Future Improvements</h2>
 - Include areas outside of Vancouver<br>
