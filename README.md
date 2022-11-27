@@ -15,7 +15,6 @@ travellers would not have to stress out planning everything!<br>
 Our website calculates the crime rate per neighbourhood. The formula that we used is:<br>
 
 ![alt text](img/formula.png)<br>
-
 This would give us the number of crimes that happen per 1000 people in each neighbourhood.<br> 
 
 <br>
