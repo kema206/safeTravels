@@ -23,28 +23,22 @@ This would give us the number of crimes that happen per 1000 people in each neig
 
 <h2>Tags in Website</h2>
 
-![alt text](img/iconST.png)<br>
-
+![alt text](img/iconST.png)
 Skytrain Tag<br>
 
-![alt text](img/iconPM.png)<br>
-
+![alt text](img/iconPM.png)
 Pharmacy Tag<br>
 
-![alt text](img/iconHT.png)<br>
-
+![alt text](img/iconHT.png)
 Hospital Tag<br>
 
-![alt text](img/iconCN.png)<br>
-
+![alt text](img/iconCN.png)
 Clinic Tag<br>
 
-![alt text](img/iconAT.png)<br>
-
+![alt text](img/iconAT.png)
 Attraction Tag<br>
 
-![alt text](img/iconSD.png)<br>
-
+![alt text](img/iconSD.png)
 Shopping District Tag<br>
 
 <h2>Future Improvements</h2>
