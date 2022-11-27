@@ -17,7 +17,7 @@ Our website calculates the crime rate per neighbourhood. The formula that we use
 
 This would give us the number of crimes that happen per 1000 people in each neighbourhood.<br> 
 
-<h2>Crime Rate Legend</h2>
+<h2>Crime Rate Index</h2>
 Blue: Crime Rate is between 20 and 40.<br> 
 Green: Crime Rate is between 40 and 50.<br> 
 Yellow: Crime Rate is between 50 and 70.<br> 
@@ -29,7 +29,7 @@ Red: Crime Rate is greater than 100.
 - Have a more accurate and consistent border per "neighbourhood"<br>
 - Add more statistics such as bus stops, food locations, etc. <br>
 - Add average prices for accomodations (hotels and AirBnB)<br>
-- Add an algorithm that will select the neighbourhood based on travelers' preference on safety, public transport, affordability<br>
+- Add an algorithm that will select the neighbourhood based on travelers' preference on safety, public transport, etc.<br>
 - Make the website available online (now it is local host and requires docker)<br>
 
 <h2>Video Demonstration</h2>
