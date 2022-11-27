@@ -3,15 +3,12 @@
 <br> 
 
 <h2>About Our Website</h2>
-Picture having to travel but not being familiar with the place you are traveling to.<br> 
-This is where "Safe Travels" comes. This website will help you plan your travels by<br> 
-highlighting neighbourhoods with different colours corresponding to their crime rates,<br> 
-so travelers could be aware of .<br> 
-Moreover, if first respond is something our users are concerned about, our website<br> 
-also provide multiple tags pinpointing the exact location of medical establishments<br> 
-such as hospitals and medical clinics. To make planning even more easy, we also provide<br> 
-locations to public transport in the form of skytrains. By using our website, travellers<br> 
-would not have to stress out planning everything!
+Picture having to travel but not being familiar with the place you are traveling to. This is where "Safe Travels" comes.<br>
+"Safe Travels" is a website will help our fellow travelers decide where to stay by compiling various statistics about<br>
+diferrent neigbouthoods in the area. One of the feature is highlighting neighbourhoods with different colours<br>
+on their corresponding crime rates. Additionaly, there are also multiple tags pinpointing the exact location of medical<br>
+establishments, amenities, and skytrain stations. These tags could help travelers decide the location that best suits them.<br>
+By using our website, travellers would not have to stress out planning everything!
 
 <h2>How We Calculate the Crime Rate</h2>
 Our website calculates the crime rate per neighbourhood, so that the user can determine how<br> 
