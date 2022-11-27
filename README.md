@@ -1,14 +1,15 @@
 <h1> Safe Travels (BCHacks 4.0) </h1>
 <h3><i>"Where we do the thinking"</i>  -Darren Evan</h3>
+<br> 
 
 <h2>About Our Website</h2>
 Picture having to travel but not being familiar with the place you are traveling to.<br> 
-This is where "Safe Travels" comes. This website will help you to plan your travels by<br> 
+This is where "Safe Travels" comes. This website will help you plan your travels by<br> 
 highlighting neighbourhoods with different colours corresponding to their crime rates,<br> 
-so user could be aware of what safety will most likely look like based on past data.<br> 
+so travelers could be aware of .<br> 
 Moreover, if first respond is something our users are concerned about, our website<br> 
 also provide multiple tags pinpointing the exact location of medical establishments<br> 
-such as hospitals and medical clinics. To make planning even MORE easy, we also provide<br> 
+such as hospitals and medical clinics. To make planning even more easy, we also provide<br> 
 locations to public transport in the form of skytrains. By using our website, travellers<br> 
 would not have to stress out planning everything!
 
