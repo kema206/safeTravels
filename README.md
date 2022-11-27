@@ -18,11 +18,14 @@ Our website calculates the crime rate per neighbourhood. The formula that we use
 This would give us the number of crimes that happen per 1000 people in each neighbourhood.<br> 
 
 <h2>Crime Rate Index</h2>
-Blue: Crime Rate is between 20 and 40.<br> 
-Green: Crime Rate is between 40 and 50.<br> 
-Yellow: Crime Rate is between 50 and 70.<br> 
-Orange: Crime Rate is between 70 and 100.<br> 
-Red: Crime Rate is greater than 100.
+
+![alt text](img/barometer.png)<br>
+
+<h2>Tags in Website</h2>
+
+![alt text](img/Attraction.png)<br>
+
+Attraction Tag<br>
 
 <h2>Future Improvements</h2>
 - Include areas outside of Vancouver<br>
@@ -33,3 +36,5 @@ Red: Crime Rate is greater than 100.
 - Make the website available online (now it is local host and requires docker)<br>
 
 <h2>Video Demonstration</h2>
+Click below to watch a Demo of the Website:
+https://youtu.be/VPc8mdRd9q4
