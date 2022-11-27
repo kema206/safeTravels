@@ -1,0 +1,41 @@
+        *{
+            margin: 0;
+            padding: 0;
+        }
+
+        #map{
+            height: 700px;
+            width: 100%;
+        }
+
+        .top-left {
+            position: absolute;
+            top: 8px;
+            left: 16px;
+        }
+
+        .text-c {
+            text-align: center;
+        }
+
+        .neighbourhood-tag {
+            background-color: #4285F4;
+            border-radius: 8px;
+            color: #f8e3e3;
+            font-size: 11px;
+            padding: 5px 5px;
+            position: relative;
+        }
+
+        .neighbourhood-tag::after {
+            content: "";
+            position: absolute;
+            left: 50%;
+            top: 100%;
+            transform: translate(-50%, 0);
+            width: 0;
+            height: 0;
+            border-left: 8px solid transparent;
+            border-right: 8px solid transparent;
+            border-top: 8px solid #4285F4;
+        }
