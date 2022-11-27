@@ -1,6 +1,6 @@
 <h1> Safe Travels (BCHacks 4.0) </h1>
 <h3><i>"Where we do the thinking for you"</i>  -Darren Evan</h3>
-<br><br>
+<br>
 
 <h2>About Our Website</h2>
 Picture having to travel but not being familiar with the place you are traveling to. This is where "Safe Travels" comes.<br>
@@ -18,6 +18,7 @@ Our website calculates the crime rate per neighbourhood. The formula that we use
 
 This would give us the number of crimes that happen per 1000 people in each neighbourhood.<br> 
 
+<br>
 <h2>Crime Rate Index</h2>
 
 ![alt text](img/barometer.png)<br>
