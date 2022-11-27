@@ -11,8 +11,8 @@ skytrains. By using our website, travellers would not have to stress out plannin
 
 <h2>How We Calculate the Crime Rate</h2>
 Our website calculates the crime rate per neighbourhood, so that the user can determine how safe it would be to stay in that neighbourhood.<br> 
-The formula that we used is:
-![alt text](formula.png)<br/>
+The formula that we used is:<br>
+![alt text](img/formula.png)<br/>
 This would give us the number of crimes that happen per 1000 people in each neighbourhood.
 
 <h2>Future Improvements</h2>
